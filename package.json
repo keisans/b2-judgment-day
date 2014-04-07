@@ -1,0 +1,30 @@
+{
+  "name": "b2-judgment-day",
+  "version": "0.0.0",
+  "description": "I'm back",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/keisans/b2-judgment-day.git"
+  },
+  "keywords": [
+    "Backbone"
+  ],
+  "author": "Ryan Struhl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/keisans/b2-judgment-day/issues"
+  },
+  "homepage": "https://github.com/keisans/b2-judgment-day",
+  "devDependencies": {
+    "grunt": "^0.4.4",
+    "grunt-contrib-requirejs": "^0.4.3"
+  },
+  "dependencies": {
+    "lodash": "^2.4.1",
+    "express": "4.x"
+  }
+}
