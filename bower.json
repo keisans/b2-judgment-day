@@ -22,5 +22,8 @@
     "almond": "~0.2.9",
     "lodash-template-loader": "~0.1.5",
     "requirejs-text": "~2.0.10"
+  },
+  "devDependencies": {
+    "jasmine": "~2.0.0"
   }
 }
